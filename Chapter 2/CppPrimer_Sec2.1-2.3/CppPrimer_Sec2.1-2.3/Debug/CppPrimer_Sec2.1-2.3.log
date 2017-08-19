@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec2.1-2.3\cppprimer_sec2.1-2.3\main.cpp(73): warning C4244: 'initializing': conversion from 'long double' to 'int', possible loss of data
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec2.1-2.3\cppprimer_sec2.1-2.3\main.cpp(82): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec2.1-2.3\cppprimer_sec2.1-2.3\main.cpp(179): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec2.1-2.3\cppprimer_sec2.1-2.3\main.cpp(209): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec2.1-2.3\cppprimer_sec2.1-2.3\main.cpp(212): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec2.1-2.3\cppprimer_sec2.1-2.3\main.cpp(96): warning C4101: 'local_int': unreferenced local variable
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec2.1-2.3\cppprimer_sec2.1-2.3\main.cpp(137): warning C4101: '_': unreferenced local variable
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec2.1-2.3\cppprimer_sec2.1-2.3\main.cpp(388): warning C4101: 'ip1': unreferenced local variable
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec2.1-2.3\cppprimer_sec2.1-2.3\main.cpp(384): warning C4101: 'i': unreferenced local variable
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec2.1-2.3\cppprimer_sec2.1-2.3\main.cpp(388): warning C4101: 'ip2': unreferenced local variable
+  CppPrimer_Sec2.1-2.3.vcxproj -> C:\Users\my pc.pc\Documents\Visual Studio Stuff\Projects\CppPrimer_Sec2.1-2.3\Debug\CppPrimer_Sec2.1-2.3.exe
+  CppPrimer_Sec2.1-2.3.vcxproj -> C:\Users\my pc.pc\Documents\Visual Studio Stuff\Projects\CppPrimer_Sec2.1-2.3\Debug\CppPrimer_Sec2.1-2.3.pdb (Partial PDB)
