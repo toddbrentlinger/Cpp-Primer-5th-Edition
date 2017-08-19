@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec2.4\cppprimer_sec2.4\main.cpp(45): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec2.4\cppprimer_sec2.4\main.cpp(47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec2.4\cppprimer_sec2.4\main.cpp(47): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec2.4\cppprimer_sec2.4\main.cpp(139): warning C4101: 'p': unreferenced local variable
+  CppPrimer_Sec2.4.vcxproj -> C:\Users\my pc.pc\Documents\Visual Studio Stuff\Projects\CppPrimer_Sec2.4\Debug\CppPrimer_Sec2.4.exe
+  CppPrimer_Sec2.4.vcxproj -> C:\Users\my pc.pc\Documents\Visual Studio Stuff\Projects\CppPrimer_Sec2.4\Debug\CppPrimer_Sec2.4.pdb (Partial PDB)
