@@ -8,24 +8,19 @@ if (isAwesome)
 ```
 ### -----1.2 A first look at input/output-----
 	
-	std::cout << "\n-----Sec 1.2 First Look at Input/Output-----" << std::endl;
-	
 ## Exercise 1.3
 	
 	std::cout << "\nHello, World" << std::endl;
 	
 ## Exercise 1.4
 	
-	std::cout << "\nExercise 1.4" << std::endl;;
 	std::cout << "Enter two numbers" << std::endl;
 	int v1 = 0, v2 = 0;
 	std::cin >> v1 >> v2;
-	std::cout << "The product of " << v1 << " and " << v2
-				<< " is " << v1 * v2 << std::endl;
+	std::cout << "The product of " << v1 << " and " << v2				<< " is " << v1 * v2 << std::endl;
 				
 ## Exercise 1.5
 	
-	std::cout << "\nExercise 1.5" << std::endl;
 	std::cout << "The sum of ";
 	std::cout << v1;
 	std::cout << " and ";
@@ -35,12 +30,12 @@ if (isAwesome)
 	std::cout << std::endl;
 				
 ## Exercise 1.6
-	 > Program fragment is illegal. Remove semicolon (termination statement)
-	 > from first two lines.
+
+> Program fragment is illegal. Remove semicolon (termination statement)
+> from first two lines.
 	
 ## Exercise 1.8
 	
-	std::cout << "\nExercise 1.8" << std::endl;
 	std::cout << "/*"; // legal
 	std::cout << "*/"; // legal
 	// std::cout << /* "*/" */; // illegal
@@ -48,9 +43,8 @@ if (isAwesome)
 	std::cout << /* "*/" /* "/*" */; // legal
 	std::cout << std::endl;
 	
-	// -----1.4.1 The while Statement-----
+### -----1.4.1 The while Statement-----
 	
-	std::cout << "\n-----Sec 1.4.1 The while Statement-----" << std::endl;
 	int sum = 0, val = 1;
 	// keep executing the while as long as val is less than or equal to 10
 	while (val <= 10) {
@@ -60,9 +54,8 @@ if (isAwesome)
 	std::cout << "\nSum of 1 to 10 inclusive is "
 				<< sum << std::endl;
 				
-	// Exercise 1.9
+## Exercise 1.9
 	
-	std::cout << "\nExercise 1.9" << std::endl;
 	sum = 0, val = 50; // set initial values
 	// keep executing the while as long as val is less than or equal to 100
 	while (val <= 100) {
