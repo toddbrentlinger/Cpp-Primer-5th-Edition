@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec3.1-3.2\cppprimer_sec3.1-3.2\main.cpp(39): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec3.1-3.2\cppprimer_sec3.1-3.2\main.cpp(148): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  CppPrimer_Sec3.1-3.2.vcxproj -> C:\Users\my pc.pc\Documents\Visual Studio Stuff\Projects\CppPrimer_Sec3.1-3.2\Debug\CppPrimer_Sec3.1-3.2.exe
+  CppPrimer_Sec3.1-3.2.vcxproj -> C:\Users\my pc.pc\Documents\Visual Studio Stuff\Projects\CppPrimer_Sec3.1-3.2\Debug\CppPrimer_Sec3.1-3.2.pdb (Partial PDB)
