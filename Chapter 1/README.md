@@ -6,15 +6,15 @@
 if (isAwesome)
   return true;
 ```
- ###-----1.2 A first look at input/output-----
+### -----1.2 A first look at input/output-----
 	
 	std::cout << "\n-----Sec 1.2 First Look at Input/Output-----" << std::endl;
 	
-	## Exercise 1.3
+## Exercise 1.3
 	
 	std::cout << "\nHello, World" << std::endl;
 	
-	## Exercise 1.4
+## Exercise 1.4
 	
 	std::cout << "\nExercise 1.4" << std::endl;;
 	std::cout << "Enter two numbers" << std::endl;
@@ -23,7 +23,7 @@ if (isAwesome)
 	std::cout << "The product of " << v1 << " and " << v2
 				<< " is " << v1 * v2 << std::endl;
 				
-	// Exercise 1.5
+## Exercise 1.5
 	
 	std::cout << "\nExercise 1.5" << std::endl;
 	std::cout << "The sum of ";
@@ -34,12 +34,11 @@ if (isAwesome)
 	std::cout << v1 + v2;
 	std::cout << std::endl;
 				
-	/* Exercise 1.6
-	 * Program fragment is illegal. Remove semicolon (termination statement)
-	 * from first two lines.
-	 */
+## Exercise 1.6
+	 > Program fragment is illegal. Remove semicolon (termination statement)
+	 > from first two lines.
 	
-	// Exercise 1.8
+## Exercise 1.8
 	
 	std::cout << "\nExercise 1.8" << std::endl;
 	std::cout << "/*"; // legal
