@@ -65,9 +65,8 @@ if (isAwesome)
 	std::cout << "Sum of 50 to 100 inclusive is "
 				<< sum << std::endl;
 				
-	// Exercise 1.10
+## Exercise 1.10
 	
-	std::cout << "\nExercise 1.10" << std::endl;
 	sum = 0, val = 10;	// set initial values
 	std::cout << "Numbers: ";
 	// keep executing the while as long as val is more than or equal to 0
@@ -77,9 +76,8 @@ if (isAwesome)
 	}
 	std::cout << std::endl;
 	
-	// Exercise 1.11
+##  Exercise 1.11
 	
-	std::cout << "\nExercise 1.11" << std::endl;
 	std::cout << "Enter two numbers" << std::endl;
 	int x1 = 0, x2 = 0;
 	std::cin >> x1 >> x2;
@@ -100,9 +98,7 @@ if (isAwesome)
 	}
 	std::cout << std::endl;
 	
-	// -----1.4.2 The for Statement-----
-	
-	std::cout << "\n-----Sec 1.4.2 The for Statement-----" << std::endl;
+###  -----1.4.2 The for Statement-----
 	
 	sum = 0;
 	// sum values from 1 through 10 inclusive
@@ -111,18 +107,16 @@ if (isAwesome)
 	std::cout << "\nSum of 1 to 10 inclusive is "
 				<< sum << std::endl;
 	
-	// Exercise 1.12
+##  Exercise 1.12
 	
-	std::cout << "\nExercise 1.12" << std::endl;
 	sum = 0;
 	for (int i = -100; i <= 100; ++i)
 		sum += i;
 	std::cout << "Sum of -100 to 100 inclusive is "
 				<< sum << std::endl;
 				
-	// Exercise 1.13
+##  Exercise 1.13
 	
-	std::cout << "\nExercse 1.13" << std::endl;
 	// Rewritten exercise 1.9
 	sum = 0; // set initial values
 	for (int val = 50; val <= 100; ++val)
@@ -148,14 +142,10 @@ if (isAwesome)
 		std::cout << i << " ";			
 	std::cout << std::endl;
 	
-	// 1.4.3 Reading an Unknown Number of Inputs
+###  1.4.3 Reading an Unknown Number of Inputs
 	
-	std::cout << "\n-----Sec 1.4.3 Reading an Unknown Number of Inputs-----" 
-				<< std::endl;
+##  Exercise 1.16
 	
-	// Exercise 1.16
-	//
-	std::cout << "\nExercise 1.16" << std::endl;
 	sum = 0;
 	int value = 0;
 	std::cout << "\nInput a set of numbers to sum ending with "
@@ -167,7 +157,7 @@ if (isAwesome)
 		sum += value;	// equivalent to sum = sum  + value
 	std::cout << "Sum is: " << sum << std::endl;
 	//
-	//-----1.4.4 The if Statement-----
+### -----1.4.4 The if Statement-----
 	
 	std::cout << "\n-----Sec 1.4.4 The if Statement-----" << std::endl;
 	
