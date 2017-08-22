@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec3.3\cppprimer_sec3.3\main.cpp(394): warning C4018: '<': signed/unsigned mismatch
+  CppPrimer_Sec3.3.vcxproj -> C:\Users\my pc.pc\Documents\Visual Studio Stuff\Projects\CppPrimer_Sec3.3\Debug\CppPrimer_Sec3.3.exe
+  CppPrimer_Sec3.3.vcxproj -> C:\Users\my pc.pc\Documents\Visual Studio Stuff\Projects\CppPrimer_Sec3.3\Debug\CppPrimer_Sec3.3.pdb (Partial PDB)
