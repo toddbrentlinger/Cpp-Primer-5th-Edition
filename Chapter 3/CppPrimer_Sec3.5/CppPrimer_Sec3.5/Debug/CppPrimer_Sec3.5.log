@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec3.5\cppprimer_sec3.5\main.cpp(28): warning C4114: same type qualifier used more than once
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec3.5\cppprimer_sec3.5\main.cpp(29): warning C4114: same type qualifier used more than once
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec3.5\cppprimer_sec3.5\main.cpp(81): warning C4101: 'parr': unreferenced local variable
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec3.5\cppprimer_sec3.5\main.cpp(80): warning C4101: 'arr': unreferenced local variable
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec3.5\cppprimer_sec3.5\main.cpp(362): warning C4101: 'ia': unreferenced local variable
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec3.5\cppprimer_sec3.5\main.cpp(705): warning C4114: same type qualifier used more than once
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec3.5\cppprimer_sec3.5\main.cpp(706): warning C4114: same type qualifier used more than once
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec3.5\cppprimer_sec3.5\main.cpp(832): warning C4114: same type qualifier used more than once
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec3.5\cppprimer_sec3.5\main.cpp(833): warning C4114: same type qualifier used more than once
+  CppPrimer_Sec3.5.vcxproj -> C:\Users\my pc.pc\Documents\Visual Studio Stuff\Projects\CppPrimer_Sec3.5\Debug\CppPrimer_Sec3.5.exe
+  CppPrimer_Sec3.5.vcxproj -> C:\Users\my pc.pc\Documents\Visual Studio Stuff\Projects\CppPrimer_Sec3.5\Debug\CppPrimer_Sec3.5.pdb (Partial PDB)
