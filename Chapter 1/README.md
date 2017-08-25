@@ -1,40 +1,40 @@
 # Chapter 1 
 
-### Sample Code and Exercise Solutions
+## Sample Code and Exercise Solutions
 
 ```C++
 if (isAwesome)
   return true;
 ```
-### -----1.2 A first look at input/output-----
+## -----1.2 A first look at input/output-----
 	
-## Exercise 1.3
+### Exercise 1.3
 	
 	std::cout << "\nHello, World" << std::endl;
 	
-## Exercise 1.4
+### Exercise 1.4
 	
 	std::cout << "Enter two numbers" << std::endl;
 	int v1 = 0, v2 = 0;
 	std::cin >> v1 >> v2;
-	std::cout << "The product of " << v1 << " and " << v2				<< " is " << v1 * v2 << std::endl;
+	std::cout << "The product of " << v1 << " and " << v2				
+	<< " is " << v1 * v2 << std::endl;
 				
-## Exercise 1.5
+### Exercise 1.5
 	
 	std::cout << "The sum of ";
 	std::cout << v1;
-	std::cout << " and ";
-	std::cout << v2;
+	std::cout << " and ";	std::cout << v2;
 	std::cout << " is ";
 	std::cout << v1 + v2;
 	std::cout << std::endl;
 				
-## Exercise 1.6
+### Exercise 1.6
 
 > Program fragment is illegal. Remove semicolon (termination statement)
 > from first two lines.
 	
-## Exercise 1.8
+### Exercise 1.8
 	
 	std::cout << "/*"; // legal
 	std::cout << "*/"; // legal
@@ -43,7 +43,7 @@ if (isAwesome)
 	std::cout << /* "*/" /* "/*" */; // legal
 	std::cout << std::endl;
 	
-### -----1.4.1 The while Statement-----
+## -----1.4.1 The while Statement-----
 	
 	int sum = 0, val = 1;
 	// keep executing the while as long as val is less than or equal to 10
@@ -54,7 +54,7 @@ if (isAwesome)
 	std::cout << "\nSum of 1 to 10 inclusive is "
 				<< sum << std::endl;
 				
-## Exercise 1.9
+### Exercise 1.9
 	
 	sum = 0, val = 50; // set initial values
 	// keep executing the while as long as val is less than or equal to 100
@@ -65,7 +65,7 @@ if (isAwesome)
 	std::cout << "Sum of 50 to 100 inclusive is "
 				<< sum << std::endl;
 				
-## Exercise 1.10
+### Exercise 1.10
 	
 	sum = 0, val = 10;	// set initial values
 	std::cout << "Numbers: ";
@@ -76,7 +76,7 @@ if (isAwesome)
 	}
 	std::cout << std::endl;
 	
-##  Exercise 1.11
+###  Exercise 1.11
 	
 	std::cout << "Enter two numbers" << std::endl;
 	int x1 = 0, x2 = 0;
@@ -98,7 +98,7 @@ if (isAwesome)
 	}
 	std::cout << std::endl;
 	
-###  -----1.4.2 The for Statement-----
+##  -----1.4.2 The for Statement-----
 	
 	sum = 0;
 	// sum values from 1 through 10 inclusive
@@ -107,7 +107,7 @@ if (isAwesome)
 	std::cout << "\nSum of 1 to 10 inclusive is "
 				<< sum << std::endl;
 	
-##  Exercise 1.12
+###  Exercise 1.12
 	
 	sum = 0;
 	for (int i = -100; i <= 100; ++i)
@@ -115,7 +115,7 @@ if (isAwesome)
 	std::cout << "Sum of -100 to 100 inclusive is "
 				<< sum << std::endl;
 				
-##  Exercise 1.13
+###  Exercise 1.13
 	
 	// Rewritten exercise 1.9
 	sum = 0; // set initial values
@@ -142,9 +142,9 @@ if (isAwesome)
 		std::cout << i << " ";			
 	std::cout << std::endl;
 	
-###  1.4.3 Reading an Unknown Number of Inputs
+##  1.4.3 Reading an Unknown Number of Inputs
 	
-##  Exercise 1.16
+###  Exercise 1.16
 	
 	sum = 0;
 	int value = 0;
@@ -157,9 +157,8 @@ if (isAwesome)
 		sum += value;	// equivalent to sum = sum  + value
 	std::cout << "Sum is: " << sum << std::endl;
 	//
-### -----1.4.4 The if Statement-----
 	
-	std::cout << "\n-----Sec 1.4.4 The if Statement-----" << std::endl;
+## -----1.4.4 The if Statement-----
 	
 	// see chapter1_1.4.4.cpp
 	std::cout << "\nsee chapter1_1.4.4.cpp" << std::endl;
