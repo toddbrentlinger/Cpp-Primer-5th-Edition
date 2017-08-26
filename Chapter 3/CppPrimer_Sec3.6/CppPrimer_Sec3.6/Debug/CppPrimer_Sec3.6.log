@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec3.6\cppprimer_sec3.6\main.cpp(21): warning C4101: 'ia1': unreferenced local variable
+  CppPrimer_Sec3.6.vcxproj -> C:\Users\my pc.pc\Documents\Visual Studio Stuff\Projects\CppPrimer_Sec3.6\Debug\CppPrimer_Sec3.6.exe
+  CppPrimer_Sec3.6.vcxproj -> C:\Users\my pc.pc\Documents\Visual Studio Stuff\Projects\CppPrimer_Sec3.6\Debug\CppPrimer_Sec3.6.pdb (Partial PDB)
