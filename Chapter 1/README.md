@@ -6,7 +6,7 @@
 if (isAwesome)
   return true;
 ```
-## -----1.2 A first look at input/output-----
+## Sec. 1.2 A first look at input/output
 	
 ### Exercise 1.3
 	
@@ -43,7 +43,7 @@ if (isAwesome)
 	std::cout << /* "*/" /* "/*" */; // legal
 	std::cout << std::endl;
 	
-## -----1.4.1 The while Statement-----
+## Sec. 1.4.1 The while Statement
 	
 	int sum = 0, val = 1;
 	// keep executing the while as long as val is less than or equal to 10
@@ -98,7 +98,7 @@ if (isAwesome)
 	}
 	std::cout << std::endl;
 	
-##  -----1.4.2 The for Statement-----
+## Sec. 1.4.2 The for Statement
 	
 	sum = 0;
 	// sum values from 1 through 10 inclusive
@@ -142,7 +142,7 @@ if (isAwesome)
 		std::cout << i << " ";			
 	std::cout << std::endl;
 	
-##  1.4.3 Reading an Unknown Number of Inputs
+## Sec. 1.4.3 Reading an Unknown Number of Inputs
 	
 ###  Exercise 1.16
 	
@@ -158,7 +158,7 @@ if (isAwesome)
 	std::cout << "Sum is: " << sum << std::endl;
 	//
 	
-## -----1.4.4 The if Statement-----
+## Sec. 1.4.4 The if Statement
 	
 	// see chapter1_1.4.4.cpp
 	std::cout << "\nsee chapter1_1.4.4.cpp" << std::endl;
