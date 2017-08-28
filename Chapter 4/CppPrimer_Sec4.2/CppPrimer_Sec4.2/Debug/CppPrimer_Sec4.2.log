@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec4.2\cppprimer_sec4.2\main.cpp(31): warning C4804: '-': unsafe use of type 'bool' in operation
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec4.2\cppprimer_sec4.2\main.cpp(31): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  CppPrimer_Sec4.2.vcxproj -> C:\Users\my pc.pc\Documents\Visual Studio Stuff\Projects\CppPrimer_Sec4.2\Debug\CppPrimer_Sec4.2.exe
+  CppPrimer_Sec4.2.vcxproj -> C:\Users\my pc.pc\Documents\Visual Studio Stuff\Projects\CppPrimer_Sec4.2\Debug\CppPrimer_Sec4.2.pdb (Partial PDB)
