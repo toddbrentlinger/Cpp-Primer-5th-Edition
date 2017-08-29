@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec4.4\cppprimer_sec4.4\main.cpp(42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec4.4\cppprimer_sec4.4\main.cpp(57): warning C4101: 'pval': unreferenced local variable
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec4.4\cppprimer_sec4.4\main.cpp(57): warning C4101: 'ival': unreferenced local variable
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec4.4\cppprimer_sec4.4\main.cpp(100): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec4.4\cppprimer_sec4.4\main.cpp(105): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  CppPrimer_Sec4.4.vcxproj -> C:\Users\my pc.pc\Documents\Visual Studio Stuff\Projects\CppPrimer_Sec4.4\Debug\CppPrimer_Sec4.4.exe
+  CppPrimer_Sec4.4.vcxproj -> C:\Users\my pc.pc\Documents\Visual Studio Stuff\Projects\CppPrimer_Sec4.4\Debug\CppPrimer_Sec4.4.pdb (Partial PDB)
