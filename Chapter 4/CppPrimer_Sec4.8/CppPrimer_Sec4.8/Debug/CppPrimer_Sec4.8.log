@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec4.8\cppprimer_sec4.8\main.cpp(54): warning C4800: 'unsigned long': forcing value to bool 'true' or 'false' (performance warning)
+  CppPrimer_Sec4.8.vcxproj -> C:\Users\my pc.pc\Documents\Visual Studio Stuff\Projects\CppPrimer_Sec4.8\Debug\CppPrimer_Sec4.8.exe
+  CppPrimer_Sec4.8.vcxproj -> C:\Users\my pc.pc\Documents\Visual Studio Stuff\Projects\CppPrimer_Sec4.8\Debug\CppPrimer_Sec4.8.pdb (Partial PDB)
