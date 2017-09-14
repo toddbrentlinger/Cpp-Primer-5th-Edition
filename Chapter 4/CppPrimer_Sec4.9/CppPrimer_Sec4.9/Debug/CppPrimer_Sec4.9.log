@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec4.9\cppprimer_sec4.9\main.cpp(38): warning C4101: 'p': unreferenced local variable
+c:\users\my pc.pc\documents\visual studio stuff\projects\cppprimer_sec4.9\cppprimer_sec4.9\main.cpp(65): warning C4101: 'arr2': unreferenced local variable
+  CppPrimer_Sec4.9.vcxproj -> C:\Users\my pc.pc\Documents\Visual Studio Stuff\Projects\CppPrimer_Sec4.9\Debug\CppPrimer_Sec4.9.exe
+  CppPrimer_Sec4.9.vcxproj -> C:\Users\my pc.pc\Documents\Visual Studio Stuff\Projects\CppPrimer_Sec4.9\Debug\CppPrimer_Sec4.9.pdb (Partial PDB)
