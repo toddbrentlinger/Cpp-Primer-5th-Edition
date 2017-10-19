@@ -7,3 +7,5 @@
 [Section 4.3 - Logical and Relational Operators](https://github.com/toddbrentlinger/Cpp-Primer-5th-Edition/blob/master/Chapter%204/CppPrimer_Sec4.3/CppPrimer_Sec4.3/main.cpp)
 
 [Section 4.4 - Assignment Operators](https://github.com/toddbrentlinger/Cpp-Primer-5th-Edition/blob/master/Chapter%204/CppPrimer_Sec4.4/CppPrimer_Sec4.4/main.cpp)
+
+[Section 4.5 - Increment and Decrement Operators](https://github.com/toddbrentlinger/Cpp-Primer-5th-Edition/blob/master/Chapter%204/CppPrimer_Sec4.5/CppPrimer_Sec4.5/main.cpp)
